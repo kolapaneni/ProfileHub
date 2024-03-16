@@ -6,7 +6,6 @@
    
 Inside project root directory, run following commands:
 
-Need M
 ## MySQL (database) setup
 
     sudo apt-get install mysql-server

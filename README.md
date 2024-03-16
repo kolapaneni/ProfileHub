@@ -13,7 +13,7 @@ Inside project root directory, run following commands:
     create database profilehub;
     
     CREATE USER 'profilehub'@'%' IDENTIFIED BY '*****';
-    GRANT ALL PRIVILEGES ON collegedekho20231031.* TO 'profilehub'@'%';
+    GRANT ALL PRIVILEGES ON profilehub.* TO 'profilehub'@'%';
 
 **Dependency installation:**
 

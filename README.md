@@ -1,4 +1,14 @@
 # ProfileHub Steps to run the program
+
+ProfileHub
+==================================
+
+This is the codebase for the ProfileHub. Every topic can be followed as a step by step process.
+
+## Clone Project
+
+    git clone https://github.com/kolapaneni/ProfileHub.git
+
 **Installation**
 
 1. Make sure you have `Python 3` installed on your system.
